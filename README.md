@@ -1,4 +1,4 @@
-# springboot_book_mall_mental_nurse_auction
+# springboot_admissions_rent_rental_orderfood_employee_exam
 📦 **SpringBoot多功能项目仓库** 🎯
 
 本仓库汇集了五个基于 **SpringBoot** 的高实用性项目，适用于学习、开发实践和功能拓展！🚀
